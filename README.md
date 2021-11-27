@@ -51,7 +51,7 @@ $ python(3) -m main_startup
     [-] STRINGSESSION : Your String Session, You can get this From Repl or BY running String_Gen File Locally
     [-] MONGO_DB : Your Mongo DB DataBase Url. 
     [-] LOG_GRP: Your Log Group/Channel Chat ID. This is Very Important and Some Modules Will Not Work Well Without This!
-[+] The fridayUserbot will not work without setting the mandatory vars.
+[+] The EagleUB will not work without setting the mandatory vars.
 ```
 
 
