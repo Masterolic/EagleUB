@@ -14,11 +14,7 @@
 * [Pyrogram](https://github.com/pyrogram/pyrogram/contributors)
 
 ## Code Owners
-* [Chsaiujwal](https://github.com/chsaiujwal)
-* [Aditya](https://github.com/Aditya-XD)
-* [Lakhac](https://github.com/Lakhac)
-* [InukaAsith](https://github.com/InukaAsith)
-* [SHRE-YANSH](https://github.com/SHRE-YANSH)
+* [Masterolic](https://github.com/masterolic)
 
 # String Session - Pyrogram 🖱
 ### Repl 🧨
