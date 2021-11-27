@@ -61,7 +61,7 @@ $ python(3) -m main_startup
 
 * Copyright (C) 2020-2021 by Masterolic@Github, < https://github.com/Masterolic/ >.
 
-FridayUB is Free Software: You can use, study share and improve it at your
+EagleUB is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
