@@ -4,7 +4,7 @@
 
 
 ## Support 🚑
-<a href="https://t.me/pc_software_cracked"<img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/pc_software_cracked"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/masterolic"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Inspiration & Credits
