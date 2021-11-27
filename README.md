@@ -23,7 +23,6 @@
 # String Session - Pyrogram 🖱
 ### Repl 🧨
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
-### Locally 🏆
 
 # Hosting 🖥
 
