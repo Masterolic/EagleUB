@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph//file/a1a3984935bbceed4656e.jpg" width="5000"></a></p> 
-<h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
+<h1 align="center"><b>Eagle-USERBOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
 
