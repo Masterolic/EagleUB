@@ -36,7 +36,7 @@
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First // (Else You Can Download And Upload to Your Local Server)
-$ git clone https://github.com/DevsExpo/FridayUserBot
+$ git clone https://github.com/Maserolic/EagleUB
 # Open Git Cloned File
 $ cd FridayUserBot
 # Install All Requirements 
