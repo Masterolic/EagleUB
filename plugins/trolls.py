@@ -14,7 +14,7 @@ from . import convert_toimage, deEmojify, phcomment, threats, trap, trash
 plugin_category = "fun"
 
 
-@catub.cat_cmd(
+@friday_on_cmd(
     pattern="trash$",
     command=("trash", plugin_category),
     info={
@@ -54,7 +54,7 @@ async def catbot(event):
     await event.client.send_file(event.chat_id, cat, reply_to=catid)
 
 
-@catub.cat_cmd(
+@friday_on_cmd(
     pattern="threats$",
     command=("threats", plugin_category),
     info={
@@ -93,7 +93,7 @@ async def catbot(event):
     await event.client.send_file(event.chat_id, cat, reply_to=catid)
 
 
-@catub.cat_cmd(
+@friday_on_cmd(
     pattern="trap(?:\s|$)([\s\S]*)",
     command=("trap", plugin_category),
     info={
@@ -142,7 +142,7 @@ async def catbot(event):
     await event.client.send_file(event.chat_id, cat, reply_to=catid)
 
 
-@catub.cat_cmd(
+@friday_on_cmd(
     pattern="phub(?:\s|$)([\s\S]*)",
     command=("phub", plugin_category),
     info={
