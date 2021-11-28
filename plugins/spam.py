@@ -5,8 +5,8 @@
 import asyncio
 import os
 
-from telethon import events
-from telethon.errors.rpcerrorlist import YouBlockedUserError
+from pyrogram import events
+from pyrogram.errors.rpcerrorlist import YouBlockedUserError
 
 from userbot import CMD_HELP, bot
 
