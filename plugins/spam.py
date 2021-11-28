@@ -10,7 +10,7 @@ from telethon.errors.rpcerrorlist import YouBlockedUserError
 
 from userbot import CMD_HELP, bot
 
-# from userbot.utils import lightning_cmd
+# from userbot.utils import friday_on_cmd
 from userbot.events import register
 
 try:
