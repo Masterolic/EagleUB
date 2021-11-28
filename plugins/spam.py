@@ -32,11 +32,11 @@ async def _(event):
     if event.fwd_from:
         return
     link = event.pattern_match.group(1)
-    chat = "@SpotifyMusicDownloaderBot"
-    await event.edit("```Getting Your Music```")
+    chat = "@SpamBot"
+    await event.edit("```Getting Your info```")
     async with bot.conversation(chat) as conv:
         await asyncio.sleep(2)
-        await event.edit("`Downloading music taking some times,  Stay Tuned.....`")
+        await event.edit("`Downloading info taking some times,  Stay Tuned.....`")
         try:
             response = conv.wait_event(
                 events.NewMessage(incoming=True, from_users=752979930)
@@ -45,7 +45,7 @@ async def _(event):
             respond = await response
         except YouBlockedUserError:
             await event.reply(
-                "```Please unblock @SpotifyMusicDownloaderBot and try again```"
+                "```Please unblock @SpamBot and try again```"
             )
             return
         await event.delete()
@@ -57,9 +57,9 @@ async def WooMai(netase):
     if netase.fwd_from:
         return
     song = netase.pattern_match.group(1)
-    chat = "@WooMaiBot"
+    chat = "@SpamBot"
     link = f"/netease {song}"
-    await netase.edit("```Getting Your Music```")
+    await netase.edit("```Getting Your info ```")
     async with bot.conversation(chat) as conv:
         await asyncio.sleep(2)
         await netase.edit("`Downloading...Please wait`")
@@ -70,7 +70,7 @@ async def WooMai(netase):
             """ - don't spam notif - """
             await bot.send_read_acknowledge(conv.chat_id)
         except YouBlockedUserError:
-            await netase.edit("```Please unblock @WooMaiBot and try again```")
+            await netase.edit("```Please unblock @SpamBot and try again```")
             return
         await netase.edit("`Sending Your Music...weit!😎`")
         await asyncio.sleep(3)
