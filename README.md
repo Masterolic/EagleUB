@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph//file/7ebdd7e2a09ac1f57c017.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph//file/d0205adcf7111c02735ae.jpg" width="5000"></a></p> 
 <h1 align="center"><b>Eagle-USERBOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
